@@ -55,7 +55,6 @@ function redConverter() {
 
   handler.savePixels(pixels, outputPath);
 }
-
 /**
  * Esta función debe transformar una imagen en escala de verdes.
  *
